@@ -1,6 +1,6 @@
 return {
     { 
-        userUID = "2510676B-6230-4529-B48C-FBB2DBFA6043",
+        userUID = "8d195ca0-0e55-11f0-a7a6-14dae99b9f9c",
         userKey = "1234-5678-9101"  -- Ключ без "iww.cc_"
     }
 }
